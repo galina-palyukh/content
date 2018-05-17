@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 70px 40px;
+    font-family: Georgia, serif;
+    line-height: 22px;
+    font-size: 16px;
+
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 35px;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    padding: 10px 0;
+}
+
+h4 {
+    margin: 16px 0 8px 0;
+}
+
+p strong a {
+    margin-top: 20px;
+}
+
+span {
+    background: yellow;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+pre {
+    font-size: 14px;
+    font-family: Georgia, serif;
+}
+
+
+
